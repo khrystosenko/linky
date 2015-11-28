@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<staticPages>
+	<page slug="test" platform="twitch" channel="starladder1" />
+</staticPages>
