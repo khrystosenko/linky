@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <staticPages>
-	<page slug="test" platform="twitch" channel="starladder1" />
-	<page slug="test" platform="twitch" channel="dreamhacksmash" />
-	<page slug="test" platform="twitch" channel="dreamhackcs" />
-	<page slug="test" platform="twitch" channel="eslatv" />
+	<page slug="starladder1" platform="twitch" channel="starladder1" />
+	<page slug="dreamhacksmash" platform="twitch" channel="dreamhacksmash" />
+	<page slug="dreamhackcs" platform="twitch" channel="dreamhackcs" />
+	<page slug="eslatv" platform="twitch" channel="eslatv" />
 </staticPages>
