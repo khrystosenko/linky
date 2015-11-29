@@ -8,4 +8,6 @@
 	<page slug="beyondthesummit" platform="twitch" channel="beyondthesummit" />
 	<page slug="starladder_cs_en" platform="twitch" channel="starladder_cs_en" />
 	<page slug="dotastarladder_en" platform="twitch" channel="dotastarladder_en" />
+	<page slug="esl_lol" platform="twitch" channel="esl_lol" />
+	<page slug="htc" platform="twitch" channel="htc" />
 </staticPages>
