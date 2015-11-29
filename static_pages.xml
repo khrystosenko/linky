@@ -4,4 +4,8 @@
 	<page slug="dreamhacksmash" platform="twitch" channel="dreamhacksmash" />
 	<page slug="dreamhackcs" platform="twitch" channel="dreamhackcs" />
 	<page slug="eslatv" platform="twitch" channel="eslatv" />
+	<page slug="starladder5" platform="twitch" channel="starladder5" />
+	<page slug="beyondthesummit" platform="twitch" channel="beyondthesummit" />
+	<page slug="starladder_cs_en" platform="twitch" channel="starladder_cs_en" />
+	<page slug="dotastarladder_en" platform="twitch" channel="dotastarladder_en" />
 </staticPages>
