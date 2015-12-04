@@ -10,6 +10,5 @@
 	<page slug="dotastarladder_en" platform="twitch" channel="dotastarladder_en" />
 	<page slug="esl_lol" platform="twitch" channel="esl_lol" />
 	<page slug="htc" platform="twitch" channel="htc" />
-	<page slug="FragbiteLive" platform="twitch" channel="FragbiteLive" />
-	
+	<page slug="fragbitelive" platform="twitch" channel="fragbitelive" />
 </staticPages>
