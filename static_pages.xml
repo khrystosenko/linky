@@ -11,4 +11,10 @@
 	<page slug="esl_lol" platform="twitch" channel="esl_lol" />
 	<page slug="htc" platform="twitch" channel="htc" />
 	<page slug="fragbitelive" platform="twitch" channel="fragbitelive" />
+	<page slug="gameshow_d2ru" platform="azubu" channel="gameshow_d2ru" />
+	<page slug="gameshow_d2en" platform="azubu" channel="gameshow_d2en" />
+	<page slug="joindotared" platform="twitch" channel="joindotared" />
+	<page slug="dota2ruhub" platform="twitch" channel="dota2ruhub" />
+	
+	
 </staticPages>
