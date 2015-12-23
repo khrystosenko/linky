@@ -15,6 +15,10 @@
 	<page slug="gameshow_d2en" platform="azubu" channel="gameshow_d2en" />
 	<page slug="joindotared" platform="twitch" channel="joindotared" />
 	<page slug="dota2ruhub" platform="twitch" channel="dota2ruhub" />
+	<page slug="MarsTVMDLru" platform="azubu" channel="MarsTVMDLru" />
+	<page slug="MarsTVMDLen" platform="azubu" channel="MarsTVMDLen" />
+	<page slug="prodotaen" platform="azubu" channel="prodotaen" />
+	<page slug="prodotaru" platform="azubu" channel="prodotaru" />
 	
 	
 </staticPages>
