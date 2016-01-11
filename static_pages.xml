@@ -19,6 +19,10 @@
 	<page slug="MarsTVMDLen" platform="azubu" channel="MarsTVMDLen" />
 	<page slug="prodotaen" platform="azubu" channel="prodotaen" />
 	<page slug="prodotaru" platform="azubu" channel="prodotaru" />
+	<page slug="gameshow_csgoen" platform="azubu" channel="gameshow_csgoen" />
+	<page slug="gameshow_csgoru" platform="azubu" channel="gameshow_csgoru" />
+	<page slug="dotapit" platform="twitch" channel="dotapit" />
+	<page slug="ogamingcs" platform="twitch" channel="ogamingcs" />
 	
 	
 </staticPages>
